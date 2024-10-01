@@ -18,17 +18,7 @@ public class Questionsservice {
         "(a) Higgs boson particles were detected"," (b) Gravitational waves were detected.","(c) Possibility of intergalactic space travel through\r\n" + //
                         "wormhole was confirmed","(d) It enabled the scientists to understand singularity.","b");
 
-        // question[2]=new Questions(1, " DNA Barcoding can be a tool to 1. Assess the age of a plant or animal   2. Distinguish among species that look alike. 3. Identify undesirable animal or plant materials processed foods. ",
         
-        // "1 only"," 3 only","1 and 2","2 and 3","2 and 3");
-
-        // question[3]=new Questions(1, " DNA Barcoding can be a tool to 1. Assess the age of a plant or animal   2. Distinguish among species that look alike. 3. Identify undesirable animal or plant materials processed foods. ",
-        
-        // "1 only"," 3 only","1 and 2","2 and 3","2 and 3");
-
-        // question[4]=new Questions(1, " DNA Barcoding can be a tool to 1. Assess the age of a plant or animal   2. Distinguish among species that look alike. 3. Identify undesirable animal or plant materials processed foods. ",
-        
-        // "1 only"," 3 only","1 and 2","2 and 3","2 and 3");
 
        
         // question[1]=new Questions(2,"what is size of double","2","6","4","8","8");
